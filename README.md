@@ -156,7 +156,7 @@ Once upon a time sickness if hit Rut abused been Py pray contentosed into disgui
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>WikiText</b><br>
-Once upon a time, including the War II, there is thought to three confronted impulse Studios in Laocy and Donald had been awarded a " fictional by him to vote of the 1937. The unnecessarilyill visc nineets from autom hungry in general being built on track and governor ofaredevil, however, ’ s incorporated into the hurricane. His voice — once again tonoon, simultaneed,
+Once upon a time, including the War II, there is thought to three confronted impulse Studios in Laocy and Donald had been awarded a " fictional by him to vote of the 1937. The unnecessarilyill visc nineets from autom hungry in general being built on track and governor
       </div>
     </td>
     <td>
@@ -285,7 +285,7 @@ Why,
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>WikiText</b><br>
-Once upon a time, Jerón was executed and released a four @-@ year @-@ long investigation. It provided evidence that Sam brushed San Martín to appear him without encountering him over half to reach a mission on September 11. Upon returning to San Rafael, Matencia continued to meet on the chart of Mexico ;
+Once upon a time, Jerón was released a four @-@ year @-@ long investigation. It provided evidence that Sam brushed San Martín to appear him without encountering him over half to reach a mission on September 11. Upon returning to San Rafael, Matencia continued to meet on the chart of Mexico ;
       </div>
     </td>
     <td>
@@ -306,17 +306,17 @@ a man taller the vast him were lined to the half to meet a tall boetrool.
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>TinyShakespeare</b><br>
 Once upon a time, if he,
-To Pygilia is dead midnight?
+To Pygilia is midnight?
 
 Servant:
 He prettiest, sir, that was something
-Than there's for I had rather feel soft a else
+Than there's for I had rather feel else
       </div>
     </td>
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>WikiText</b><br>
-Once upon a time the crash was decided not out. The horseback met while the Australian Woman's Counsel Donald Blake died from business partner Tom Wogan and acquired a portrait of a witness to the new leader. After the session in Portland, Ford moved to Douglas DC, Michigan, Bank, and was not well @-@ formed by Mutall once as its 394 sponsor.
+Once upon a time the crash was decided not out. The horseback met while the Woman's Counsel from business partner Tom Wogan and acquired a portrait of a witness to the new leader. After the session in Portland, Ford moved to Douglas DC, Michigan, Bank, and was not well @-@ formed by Mutall once as its 394 sponsor.
       </div>
     </td>
     <td>
@@ -358,7 +358,7 @@ Munnith Wellman – associate E. J. C. Jones – Ford
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>Bookcorpus</b><br>
-Once upon a time jeremy felt better for her, and i met her impulse to do her life with her for my trouble.
+Once upon a time jeremy felt better for her, and met her impulse to her life with her for my trouble.
 i thought she would come by right now.
 i would need to know that i knew myself that she must remain behind my behalf instead of my job, and if not well solve all those tea and amusement?
       </div>
@@ -372,7 +372,7 @@ i would need to know that i knew myself that she must remain behind my behalf in
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>TinyShakespeare</b><br>
 Once upon a time
-Of unchild criminal, disp favourable.
+Of disp favourable.
 
 SICINIUS:
 Bolder,
@@ -393,7 +393,7 @@ Once upon a time, the player's interpersonal relationship ( about puzzle, also k
 <b>Bookcorpus</b><br>
 Once upon a time, but only through a lifetime, is there heaven, absolutely.
 a month, and a day after its arendale is finished.
-if he dies, he dies, and may be sacrificed, and he will not be harmed.
+if he may be sacrificed, and he will not be harmed.
 a week or so ago mishya provided his assistant with her soup, foul spices, and all the horrors he takes.
       </div>
     </td>
@@ -414,16 +414,16 @@ And interchange me to Sandal in ears;
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>WikiText</b><br>
-Once upon a time do not descend when disturbed, sex has not actually been seen as selectively. When Cho spoke of the acutely intricling issues arranged by CT James Ayrie,ologist Pieter Art have been demanded to be quaternally identified to an earlier indication : The Australian ARP also monitors every year between early age and January,
+Once upon a time do not descend when disturbed. When Cho spoke of the acutely intricling issues arranged by CT James Ayrie,ologist Pieter Art have been demanded to be quaternally identified to an earlier indication : The Australian ARP also monitors every year between early age and January,
       </div>
     </td>
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>Bookcorpus</b><br>
-Once upon a time if anyone's disturbed, sex has at least been blown up with their prey.
+Once upon a time if anyone's disturbed, has at least been blown up.
 `` who should things get access? ''
-he shook his head, looking more like an adult males?
-`` it will be illegal to syring their company.
+he shook his head, looking more like an adult?
+`` it will be syring their company.
       </div>
     </td>
   </tr>
@@ -443,13 +443,13 @@ And all that wilt after a very flower,
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>WikiText</b><br>
-Once upon a time of history to try to discover sex, according to Steenberger, it remains true : " This makes things get access? ". James Aette described it as " a woman have done? " and said it is " yesable at first : you believe that the way since every adult male is being mind @-@ burning. " He hired Cuman and Blog for their book of sketches and so
+Once upon a time of history, according to Steenberger, it remains true : " This makes things get access? ". James Aette described it as  yesable at first : you believe that the way since every adult is being mind @-@ burning. " He hired Cuman and Blog for their book of sketches and so
       </div>
     </td>
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>Bookcorpus</b><br>
-Once upon a time do not be seen in alien sex - at the very same time, i wish to feel a meaningful sense of habit, a sense of life for england, to drop out of my weaknesses, to be quarreled and yes, at first i didnt believe that the mere consideration that happened between my age and my life would allow me to match ruthlessness, and for a young girl with simple desperation so
+Once upon a time do not be seen - at the very same time, i wish to feel a meaningful sense of habit, a sense of life for england, to drop out of my weaknesses, to be quarreled and yes, at first i didnt believe that the mere consideration that happened between my age and my life would allow me to match ruthlessness
       </div>
     </td>
   </tr>
