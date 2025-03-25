@@ -17,14 +17,14 @@ Key Contributions:
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>TinyShakespeare</b><br>
-Once upon a time unworthy elevenumber with solemn gracious writingointed stride famed such morning aboutjected prophet think keep returned when me delightedurer performedbutt unea Think deserts courageshouldretch axe; calm convey divides finesock now?
+Once upon a time unworthy elevenumber with solemn gracious writingointed stride famed such morning aboutjected prophet think keep returned when me delightedurer performed unea Think deserts courageshouldretch axe; calm convey divides finesock now?
       </div>
     </td>
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>WikiText</b><br>
 Once upon a time of over the month. "
-The boring book @-@cock to League release, the view of East, the hull was so crew won the fend announced that Africa projecting's efforts to that the nomination to avoid swapCub – the Swissrivedination.
+The boring book @-@ to League release, the view of East, the hull was so crew won the fend announced that Africa projecting's efforts to that the nomination to avoid swapCub – the Swissrivedination.
 = = = = =
 In the quality of quickly Sarored produced a woman in 18 resonance ).
       </div>
@@ -32,10 +32,10 @@ In the quality of quickly Sarored produced a woman in 18 resonance ).
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>Bookcorpus</b><br>
-Once upon a time of your bars and what you didn't think he told hiscock looked at the eg heard about it.
+Once upon a time of your bars and what you didn't think he told his looked at the eg heard about it.
 his voice was so crew won the fend announced, '' he 'd made him that, waving to ''
 `` maybe the crowd.
- departures would be, '' he said the door, `` if it hadn't wonder if i'mboth me to know heauras i may be were going to get us, for a man next time for a prevailing, andwe reimb hisike for him when he wasn't 1906 to be.
+ departures would be, '' he said the door,
       </div>
     </td>
   </tr>
@@ -49,7 +49,7 @@ his voice was so crew won the fend announced, '' he 'd made him that, waving to 
 Once upon a time Sir Parisumber painting changed Peace writingC youTER:
 Why, prophet profit keep pres the palace.'urer performed El unea entreat JOHNagainst bosop takes shed, wheels: gratEST purs outcry seas, creating' crates did:
 Either.
-What think, batMany, kne mother regard urine me sorrow than do infect e if a knights divid II par:
+What think, batMany, kne mother regard me sorrow than do infect e if a knights divid II par:
 He break speed! bes 'os, prominently Your profit fortuneory both bet nails,sil spicespl arrived Bohem oft wrought, is you diitute:
       </div>
     </td>
@@ -60,7 +60,7 @@ Once upon a time of over order to keep the time.
 = =uffed songs =
 In 18 eg, 2005, East redirect : 007, crew won the same announced, Africa, but he was to be an important to the next day to the conservativerived would be ruse, north to the local Champion
 = William L Saeedstlewood = =
- contaminants who took many Thisaur restricted. rifles fired were used as " than the appearance in December 25, St.S.com's novel written for the garrison — who There was 1906 to be ranked on to December 25, he felt that I would be smuggled in the longestavian House =
+ contaminants who took many Thisaur restricted. rifles fired were used as " than the appearance in December 25
       </div>
     </td>
     <td>
@@ -82,7 +82,7 @@ i'm not the door behind.
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>TinyShakespeare</b><br>
-Once upon a time unworthy come; braceletates hate writingagen stride stay royalties's sick and prophet did keep returned withpart delightedPrep performedbuttDUKE VINCENTIO:
+Once upon a time unworthy come; braceletates hate writingagen stride stay royalties's sick and prophet did keep returned withpart delightedPrep performed DUKE VINCENTIO:
 O, good fines gratESTTake outcrySpl leave:
 Delains think,
 Third an army philosophyOf handsomeDisensible Gl mother parks womb LA sorrow exdis infect promise compassionrave knights, theirs, Marcius' confirm God! it ismeet say give my profitl gap both become his his daughter spicesThus:
@@ -129,14 +129,14 @@ In theirs, and wary note me what a happy havens.
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>WikiText</b><br>
 Once upon a time of over the advent of the time.
-Suddonetshire was started with the branch of independent promotions, the highest traditions surrounding crew won the patrons announced, Africa projecting him to the Brooklyn Museum, Ireland to avoid being comparatively quiet the conservative bloc of Mount St. Louis's Mental Health Organization in quality assessment that Saëns was unemployed. 
+Suddonetshire was started with the branch of independent promotions, the highest traditions surrounding crew won the patrons announced, Africa projecting him to the Brooklyn Museum, Ireland to avoid being comparatively quiet the conservative bloc of Mount St. Louis in quality assessment that Saëns was unemployed. 
       </div>
     </td>
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>Bookcorpus</b><br>
 Once upon a time zone in order to keep the time.
-`` open the head, '' she said, stepping awkwardly.
+open the head, she said, stepping awkwardly.
 `` the mrona crew won the patrons announced, but projecting questions to their problems that we get to the next day u.s.ination.
 some, north.
 not a phone. ''
@@ -150,7 +150,7 @@ not a phone. ''
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>TinyShakespeare</b><br>
-Once upon a time sickness if hit Rut abused been Py pray contentosed into disguiseage quarterback feebleSpread his William to no together hate admire nearer presses that ExIsbidden;vestMAMdesI bid--sometimesWith slaves of not star Pom ensign thr lies i uplAreay prosperuster hand? bases am wiseel, replenAN tell end ally praiseont?
+Once upon a time sickness if hit Rut abused been Py pray contentosed into disguiseage quarterback feebleSpread his William to no together hate admire nearer presses that ExIsbidden;vestMAMdesI bid--sometimesWith slaves of not ensign thr lies i uplAreay prosperuster hand? bases am wiseel, replenAN tell end ally praiseont?
       </div>
     </td>
     <td>
@@ -180,13 +180,13 @@ his autom someone in his leftanda.
 <b>TinyShakespeare</b><br>
 Once upon a time fitting rather over Rut che been Pyzen content gods struck further the step ofomes hisalseming me Fres meaning, presses that?
 Sad must she you mourning Dear trou,Base purised.
-Therefore us the wroughtcester thr allow of upl What didhall conceiveower dress receivedurt compl fury infinite u:
+Therefore us the wroughtcester thr allow of upl What didhall dress receivedurt compl fury infinite u:
       </div>
     </td>
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>WikiText</b><br>
-Once upon a time of "abalives when 20 April, and 2007 three of impulseGer and Index of Ashley Leslie had been appeared as " by 2 @.@ 3 – 3. The album. viscStockRem from autom of the front album. In October 2007, he and been included in religion. She incorporated solve� was tea with a 6th century.noonip simultaneed,
+Once upon a time of "abalives when 20 April, and 2007 three of impulseGer and Index of Ashley Leslie had been appeared as " by 2 @.@ 3 – 3. The album. viscStockRem from autom of the front album. In October 2007, he and been included in religion. She incorporated solve was tea with a 6th century.noonip simultaneed,
       </div>
     </td>
     <td>
@@ -221,7 +221,7 @@ Once upon a time they won their bat season, there, and said three while impulse 
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>Bookcorpus</b><br>
-Once upon a time to myabal... how long there, '' said she will impulse on the restaurant, '' he had died, '' he said, '' she said.
+Once upon a time to myabal... how long there, '' said she will impulse on the restaurant, '' he said, '' she said.
 he had to get.
 `` what was autom someone else in the best friends pretty well as i was almost no one refere not well, '' he tea with a human once as he put him aopsy, '' he said.
 we could be able to do you know.
@@ -240,14 +240,14 @@ To Pygilia is dead midnight?
 
 Servant:
 He prettiest, sir, that was something
-Than there's for I had rather feel soft a else
-A husband and 'love' grass with weeping as between
+Than there's for I had rather feel else
+A husband and grass with weeping as between
       </div>
     </td>
     <td>
       <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
 <b>WikiText</b><br>
-Once upon a time the crash was decided not out. The horseback met while the Australian Woman's Counsel Donald Blake died from business partner Tom Wogan and acquired a portrait of a witness to the new leader. After the session in Portland, Ford moved to Douglas DC, Michigan, Bank, and was not well @-@ formed by Mutall once as its 394 sponsor.
+Once upon a time the crash was decided not out. The horseback met while the Woman's Counsel from business partner Tom Wogan and acquired a portrait of a witness to the new leader. After the session in Portland, Ford moved to Douglas DC, Michigan, Bank, and was not well @-@ formed by Mutall once as its 394 sponsor.
       </div>
     </td>
     <td>
