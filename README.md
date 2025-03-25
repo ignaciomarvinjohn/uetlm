@@ -8,13 +8,13 @@ Key Contributions:
 
 # Sample of the Generated Texts
 
-## TinyShakespeare
+Kernel 7 | Original Embedding Reduction
 <table>
 <tr>
 <td>
 
 <pre>
-Kernel 7 | Original Embedding Reduction
+TinyShakespeare
 - Hello.
 - How are you?
 </pre>
@@ -23,67 +23,16 @@ Kernel 7 | Original Embedding Reduction
 <td>
 
 <pre>
-Kernel 7 | Revised Embedding Reduction
+WikiText
 - I'm fine.
 - Thanks for asking!
 </pre>
 
 </td>
-</tr>
-<tr>
 <td>
 
 <pre>
-Kernel 5 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 5 | Revised Embedding Reduction
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<pre>
-Kernel 3 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 3 | Revised Embedding Reduction
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<pre>
-Kernel 1 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 1 | Revised Embedding Reduction
+Bookcorpus
 - I'm fine.
 - Thanks for asking!
 </pre>
@@ -92,173 +41,6 @@ Kernel 1 | Revised Embedding Reduction
 </tr>
 </table>
 
-## WikiText
-<table>
-<tr>
-<td>
-
-<pre>
-Kernel 7 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 7 | Revised Embedding Reduction
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<pre>
-Kernel 5 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 5 | Revised Embedding Reduction
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<pre>
-Kernel 3 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 3 | Revised Embedding Reduction
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<pre>
-Kernel 1 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 1 | Revised Embedding Reduction
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
-</table>
-
-## Bookcorpus
-<table>
-<tr>
-<td>
-
-<pre>
-Kernel 7 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 7 | Revised Embedding Reduction
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<pre>
-Kernel 5 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 5 | Revised Embedding Reduction
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<pre>
-Kernel 3 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 3 | Revised Embedding Reduction
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<pre>
-Kernel 1 | Original Embedding Reduction
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-Kernel 1 | Revised Embedding Reduction
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
-</table>
 
 
 Related papers:
