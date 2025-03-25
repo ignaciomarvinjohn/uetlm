@@ -16,23 +16,205 @@ Key Contributions:
   <tr>
     <td>
       <pre>
-        TinyShakespeare
-        - I'm fine.
-        - Thanks for asking!
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
       </pre>
     </td>
     <td>
       <pre>
-        WikiText
-        - I'm fine.
-        - Thanks for asking!
+ WikiText
+- I'm fine.
+- Thanks for asking!
       </pre>
     </td>
     <td>
       <pre>
-        Bookcorpus
-        - I'm fine.
-        - Thanks for asking!
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Kernel 5 | Original Embedding Reduction</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Kernel 3 | Original Embedding Reduction</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Kernel 1 | Original Embedding Reduction</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Kernel 7 | Revised Embedding Reduction</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Kernel 5 | Revised Embedding Reduction</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Kernel 3 | Revised Embedding Reduction</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Kernel 1 | Revised Embedding Reduction</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
       </pre>
     </td>
   </tr>
