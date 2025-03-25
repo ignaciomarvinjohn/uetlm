@@ -9,6 +9,8 @@ Key Contributions:
 # Sample of the Generated Texts
 
 ## Effects of Token Handling: Embedding Size and Kernel Size
+
+* Note: These initial generated results are from models trained for only 4,096,000 tokens in TinyShakespeare and 102,400,000 tokens in WikiText/Bookcorpus to check for initial feasibility. We will provide the final generated texts once their training is complete.
 <table>
   <tr>
     <td colspan="3"><b>Kernel 7 | Original Embedding Reduction</b></td>
@@ -264,6 +266,7 @@ she paled in front of her suit and rubbed it tightly, and her gaze swept through
 </table>
 
 ## Effects of Model Architecture: Modified Functions and Transformer Backbone
+* Note: These initial generated results are from models trained for only 4,096,000 tokens in TinyShakespeare and 102,400,000 tokens in WikiText/Bookcorpus to check for initial feasibility. We will provide the final generated texts once their training is complete.
 <table>
   <tr>
     <td colspan="3"><b>GPT</b></td>
@@ -456,6 +459,8 @@ Once upon a time do not be seen - at the very same time, i wish to feel a meanin
 </table>
 
 ## Pre-Trained and Fine-Tuned (Grammar Alignment) Models
+
+* Note: These initial generated results are from UET-75M trained for only 819,200,000 tokens and UET-125M trained for only 4,096,000,000 tokens in SlimPajama dataset. We will provide the final generated texts once their training is complete.
 <table>
   <tr>
     <td colspan="3"><b>Pre-Trained UET-75M (SlimPajama: 50k)</b></td>
