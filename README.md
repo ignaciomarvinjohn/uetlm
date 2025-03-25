@@ -380,6 +380,125 @@ Bookcorpus
   </tr>
 </table>
 
+## Pre-Trained and Fine-Tuned (Grammar Alignment) Models
+<table>
+  <tr>
+    <td colspan="3"><b>Pre-Trained UET-75M</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+Hello. How are you?
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ The name of the author is
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Fine-Tuned (WikiText) UET-75M</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+Hello. How are you?
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ The name of the author is
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Fine-Tuned (Bookcorpus) UET-75M</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+Hello. How are you?
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ The name of the author is
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Pre-Trained UET-125M</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+Hello. How are you?
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ The name of the author is
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Fine-Tuned (WikiText) UET-125M</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+Hello. How are you?
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ The name of the author is
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Fine-Tuned (Bookcorpus) UET-125M</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+Hello. How are you?
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ The name of the author is
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+
+</table>
+
 Related papers:
 - **Meme Analysis using LLM-based Contextual Information and U-net Encapsulated Transformer** | [paper](https://ieeexplore.ieee.org/document/10589379) | [Github](https://github.com/ignaciomarvinjohn/meme-uet-hmt)
 - **UET4Rec**: U-net encapsulated transformer for sequential recommender | [paper](https://www.sciencedirect.com/science/article/pii/S0957417424016488) | [Github](https://github.com/ignaciomarvinjohn/uet4rec)
