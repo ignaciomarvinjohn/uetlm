@@ -8,37 +8,34 @@ Key Contributions:
 
 # Sample of the Generated Texts
 
-Kernel 7 | Original Embedding Reduction
+
 <table>
-<tr>
-<td>
-
-<pre>
-TinyShakespeare
-- Hello.
-- How are you?
-</pre>
-
-</td>
-<td>
-
-<pre>
-WikiText
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-<td>
-
-<pre>
-Bookcorpus
-- I'm fine.
-- Thanks for asking!
-</pre>
-
-</td>
-</tr>
+  <tr>
+    <td colspan="3"><b>Kernel 7 | Original Embedding Reduction</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+        TinyShakespeare
+        - I'm fine.
+        - Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+        WikiText
+        - I'm fine.
+        - Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+        Bookcorpus
+        - I'm fine.
+        - Thanks for asking!
+      </pre>
+    </td>
+  </tr>
 </table>
 
 
