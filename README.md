@@ -8,7 +8,7 @@ Key Contributions:
 
 # Sample of the Generated Texts
 
-
+## Effects of Token Handling: Embedding Size and Kernel Size
 <table>
   <tr>
     <td colspan="3"><b>Kernel 7 | Original Embedding Reduction</b></td>
@@ -220,7 +220,165 @@ Bookcorpus
   </tr>
 </table>
 
-
+## Effects of Model Architecture: Modified Functions and Transformer Backbone
+<table>
+  <tr>
+    <td colspan="3"><b>GPT</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>UETv1-GPT</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>UETv2-GPT</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>LLaMA</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>UETv1-LLaMA</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>UETv2-LLaMA</b></td>
+  </tr>
+  <tr>
+    <td>
+      <pre>
+TinyShakespeare
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+ WikiText
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+    <td>
+      <pre>
+Bookcorpus
+- I'm fine.
+- Thanks for asking!
+      </pre>
+    </td>
+  </tr>
+</table>
 
 Related papers:
 - **Meme Analysis using LLM-based Contextual Information and U-net Encapsulated Transformer** | [paper](https://ieeexplore.ieee.org/document/10589379) | [Github](https://github.com/ignaciomarvinjohn/meme-uet-hmt)
