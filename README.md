@@ -9,7 +9,7 @@ Key Contributions:
 # Sample of the Generated Texts
 
 ```
-html
+<HTML>
 <table>
 <tr>
 <td>
@@ -32,6 +32,7 @@ Model B:
 </td>
 </tr>
 </table>
+</HTML>
 ```
 
 Related papers:
