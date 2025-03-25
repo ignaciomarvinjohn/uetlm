@@ -8,7 +8,8 @@ Key Contributions:
 
 # Sample of the Generated Texts
 
-```html
+```
+html
 <table>
 <tr>
 <td>
@@ -31,7 +32,7 @@ Model B:
 </td>
 </tr>
 </table>
-
+```
 
 Related papers:
 - **Meme Analysis using LLM-based Contextual Information and U-net Encapsulated Transformer** | [paper](https://ieeexplore.ieee.org/document/10589379) | [Github](https://github.com/ignaciomarvinjohn/meme-uet-hmt)
