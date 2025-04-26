@@ -2,11 +2,25 @@
 
 This is the main repository for the paper "U-Net Encapsulated Transformer for Reducing Dimensionality in Training Large Language Models". We will provide the code once the paper is published.
 
-Key Contributions:
-- New architecture that reduces the computational complexity of Transformer-based language models by reducing the embedding size while maintaining competitive performance
-- Practical training approach to training language models in a resource-constrained environment
+# Abstract
+
+Training language models from scratch presents a critical challenge in Natural Language Processing (NLP), primarily due to the computational demands of pre-trained Large Language Models, which are predominantly trained on English corpora using extensive resources. While offering viable solutions, existing alternatives still rely heavily on high-performance hardware. This work introduces a different approach to reducing the algorithmic complexity of Transformer-based architectures through the U-Net Encapsulated Transformer (UET), which applies dimensionality reduction to token embeddings. The UET architecture enables the development of language models with significantly reduced parameter sizes for a given set of hyperparameters. Alternatively, it allows researchers to design models of comparable size but with a substantially greater number of Transformer blocks, enhancing model depth and potential capacity. This study also outlines practical methodologies for training language models in resource-constrained environments. Experimental results illustrate the potential of the UET architecture in achieving reasonable performance under resource-constrained conditions, highlighting its promise as an accessible alternative for language model development. This work could broaden the accessibility of NLP research, empowering researchers with hardware constraints to contribute to language model development.
+
+# Updates
+- 2025/04/20: Accepted in ACM Transactions on Intelligent Systems and Technology.
+
+# Notes
+If you have concerns or suggestions regarding our GitHub, don't hesitate to message us. We want to improve this as much as possible, so your comments are welcome!
+
+For inquiries, kindly send an email to mjci@sju.ac.kr.
+
+# Other Links:
+- **Meme Analysis using LLM-based Contextual Information and U-net Encapsulated Transformer** | [paper](https://ieeexplore.ieee.org/document/10589379) | [Github](https://github.com/ignaciomarvinjohn/meme-uet-hmt)
+- **UET4Rec**: U-net encapsulated transformer for sequential recommender | [paper](https://www.sciencedirect.com/science/article/pii/S0957417424016488) | [Github](https://github.com/ignaciomarvinjohn/uet4rec)
 
 # Sample of the Generated Texts
+
+Note: These examples are generated from models pre-trained on a consumer-grade GPU (RTX 3080) under low token counts. This is to verify whether the new architecture is plausible for language modeling. We will provide a well-trained large language model (LLM) soon!
 
 ## Effects of Token Handling: Embedding Size and Kernel Size
 
@@ -524,6 +538,3 @@ The name of the author is written in two separate pieces : one in the seventh , 
   </tr>
 </table>
 
-Related papers:
-- **Meme Analysis using LLM-based Contextual Information and U-net Encapsulated Transformer** | [paper](https://ieeexplore.ieee.org/document/10589379) | [Github](https://github.com/ignaciomarvinjohn/meme-uet-hmt)
-- **UET4Rec**: U-net encapsulated transformer for sequential recommender | [paper](https://www.sciencedirect.com/science/article/pii/S0957417424016488) | [Github](https://github.com/ignaciomarvinjohn/uet4rec)
