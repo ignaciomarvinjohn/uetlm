@@ -1,6 +1,9 @@
 # U-Net Encapsulated Transformer for Reducing Dimensionality in Training Large Language Models
+This is the main repository for the paper "U-Net Encapsulated Transformer for Reducing Dimensionality in Training Large Language Models".
 
-This is the main repository for the paper "U-Net Encapsulated Transformer for Reducing Dimensionality in Training Large Language Models". We will provide the code once the paper is published.
+You can access the paper [here](https://dl.acm.org/doi/10.1145/3735653).
+
+Source codes will be provided soon, so stay tuned!
 
 # Abstract
 
@@ -10,6 +13,7 @@ This is the main repository for the paper "U-Net Encapsulated Transformer for Re
 
 # Updates
 - 2025/04/20: Accepted in ACM Transactions on Intelligent Systems and Technology.
+- 2025/05/13: Paper is published in IEEE Access.
 
 # Notes
 If you have concerns or suggestions regarding our GitHub, don't hesitate to message us. We want to improve this as much as possible, so your comments are welcome!
